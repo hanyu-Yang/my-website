@@ -1,0 +1,17 @@
+color:
+  palette:
+    green-dark: "#2E7D32"
+    green: "#4CAF50"
+    green-light: "#81C784"
+    green-bg: "#E8F5E9"
+    white: "#FFFFFF"
+    gray-dark: "#333333"
+    gray: "#666666"
+    gray-light: "#F5F5F5"
+  foreground: "#333333"
+  background: "#FFFFFF"
+  primary: "#4CAF50"
+  secondary: "#2E7D32"
+  success: "#4CAF50"
+  info: "#81C784"
+  link: "#2E7D32"
